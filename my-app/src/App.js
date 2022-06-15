@@ -10,6 +10,7 @@ import Refresh from './myComponent/Refresh'
 import RenderDom from './myComponent/RenderDom';
 import FindDom from './myComponent/FindDom';
 import From from './myComponent/From';
+import Select from './myComponent/Select';
 
 function App() {
   return (
@@ -23,8 +24,10 @@ function App() {
     <SetState></SetState>
     <Refresh></Refresh>
     <RenderDom></RenderDom>
-    <FindDom></FindDom> */}
-    <From></From>
+    <FindDom></FindDom> 
+    <From></From>*/}
+    <Select></Select>
+
     
     </div>
   );
